@@ -1,0 +1,70 @@
+[
+  {
+    "name": "About Us",
+    "to": "/",
+    "hasSubmenu": true,
+    "submenu": [
+      {
+        "name": "Orchestra",
+        "to": "/orchestra",
+        "id": "11"
+      },
+      {
+        "name": "Artistic Director",
+        "to": "/artisticdirector",
+        "id": "12"
+      },
+      {
+        "name": "Faculty",
+        "to": "/faculty",
+        "id": "13"
+      },
+      {
+        "name": "Organizer",
+        "to": "/organizer",
+        "id": "14"
+      },
+      {
+        "name": "Partners",
+        "to": "/partners",
+        "id": "15"
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "name": "News & Activities",
+    "to": "/",
+    "hasSubmenu": true,
+    "submenu": [
+      {
+        "name": "Auditions",
+        "to": "/auditions",
+        "id": "21"
+      },
+      {
+        "name": "Concert Tours",
+        "to": "/concertours",
+        "id": "22"
+      },
+      {
+        "name": "Other Events",
+        "to": "/otherevents",
+        "id": "23"
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "name": "Donations",
+    "to": "/donations",
+    "hasSubmenu": false,
+    "id": "3"
+  },
+  {
+    "name": "Contact",
+    "to": "/contact",
+    "hasSubmenu": false,
+    "id": "4"
+  }
+]
